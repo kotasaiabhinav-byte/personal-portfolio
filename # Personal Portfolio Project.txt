@@ -1,0 +1,12 @@
+# Personal Portfolio Project
+## Project Overview
+This is my first website built using HTML5 for Week 1 of my coding journey.
+
+## Concepts Learned
+* Semantic HTML structure
+* Creating accessible forms
+* Linking internal sections using ID anchors
+
+## Setup Instructions
+1. Clone this repository.
+2. Open `index.html` in any modern web browser.
